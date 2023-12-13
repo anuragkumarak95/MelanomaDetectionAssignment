@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection Assignment
 > Outline a brief description of your project.
 
 
@@ -11,38 +11,34 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This Project is a Notebook Assignment to understand and practice Convolutional Neural Network Models.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- We saw multiple ways to form a CNN Sequential model and fit it with original and transformed data
+- Transformed Data helps in removing over/under fitting, but not in all cases.
+- Using Google Collab helped us to evaluate/fit models very fast
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python
+- jupyter notebook
+- keras
+- matplotlib
+- tensor
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was completed on Google Collab
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@anuragkumarak95] - feel free to contact me!
 
 
 <!-- Optional -->
